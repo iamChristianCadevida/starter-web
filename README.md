@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 EDITED 1
 EDITED 2
+EDITED 3
+EDITED 4
