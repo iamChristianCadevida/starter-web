@@ -12,3 +12,4 @@ EDITED 3
 EDITED 4
 
 A copyright has been added
+A humans.txt has been updated
