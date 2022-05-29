@@ -10,3 +10,5 @@ EDITED 1
 EDITED 2
 EDITED 3
 EDITED 4
+
+A copyright has been added
